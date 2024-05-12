@@ -1,0 +1,14 @@
+D:\VS\hashSalt\hashSat\bin\Debug\net6.0\hashSat.exe
+D:\VS\hashSalt\hashSat\bin\Debug\net6.0\hashSat.deps.json
+D:\VS\hashSalt\hashSat\bin\Debug\net6.0\hashSat.runtimeconfig.json
+D:\VS\hashSalt\hashSat\bin\Debug\net6.0\hashSat.dll
+D:\VS\hashSalt\hashSat\bin\Debug\net6.0\hashSat.pdb
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.AssemblyInfoInputs.cache
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.AssemblyInfo.cs
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.csproj.CoreCompileInputs.cache
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.dll
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\refint\hashSat.dll
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.pdb
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\hashSat.genruntimeconfig.cache
+D:\VS\hashSalt\hashSat\obj\Debug\net6.0\ref\hashSat.dll
